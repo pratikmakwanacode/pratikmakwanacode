@@ -10,3 +10,6 @@
 </picture>
 
 </div>
+<p align="center">
+  <img src="./projects_dark.svg" width="100%" alt="My GitHub Projects">
+</p>
