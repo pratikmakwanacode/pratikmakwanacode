@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./dark.svg" width="100%" alt="Pratik Makwana GitHub Banner">
 </p>
+<p align="center">
+  <img src="./connect_dark.svg" width="100%" alt="Connect with me">
+</p>
 <div align="center">
 
 <picture>
