@@ -17,5 +17,5 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratikmakwanacode/pratikmakwanacode/main/projects_dark.svg" width="100%" alt="My GitHub Projects">
+  <img src="https://raw.githubusercontent.com/pratikmakwanacode/pratikmakwanacode/main/projects_dark_star1.svg" width="100%" alt="My GitHub Projects">
 </p>
